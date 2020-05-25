@@ -147,4 +147,6 @@ object Tutorial_13 extends App {
   println("Likelihood for mesh 2 = " + likelihoodForMesh(asm, sampleMesh2, preprocessedImage))
 
   // Thus mesh 1 (is larger) and thus more likely
+
+  // NOW WE CAN USE MCMC!
 }
