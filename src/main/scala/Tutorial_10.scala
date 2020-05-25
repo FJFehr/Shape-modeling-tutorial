@@ -84,6 +84,4 @@ object Tutorial_10 extends App {
   rigidFitView.color = java.awt.Color.YELLOW
 
   // Now it fits nicely, but local mins are a problem so poor starting values are a lass
-
-  
 }
